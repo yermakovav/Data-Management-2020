@@ -1,1 +1,1 @@
-# Data-Management-2020
+# Seminar-2020
